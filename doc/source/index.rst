@@ -18,9 +18,9 @@ xc_
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
 
-.. _projects: projects/projects
+.. _projects: /projects/projects/
 
-.. _xc: projects/xc
+.. _xc: /projects/xc/
 
 
 
