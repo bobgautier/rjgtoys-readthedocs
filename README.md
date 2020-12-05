@@ -15,3 +15,7 @@ A thin layer on top of `setuptools` to simplify writing Python projects.
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
 
+### [thing](../../../rjgtoys-thing)
+
+A `dict` that works like a JavaScript object, so `x['a']` and `x.a` are equivalent.
+
