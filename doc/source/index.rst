@@ -18,9 +18,16 @@ xc_
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
 
+thing_
+~~~~~~
+
+A kind of ``dict`` that behaves a bit like a JavaScript object, so ``x['a']`` and ``x.a`` are equivalent.
+
 .. _projects: /projects/projects/
 
 .. _xc: /projects/xc/
+
+.. _thing: /projects/thing/
 
 
 
