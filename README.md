@@ -15,6 +15,10 @@ A thin layer on top of `setuptools` to simplify writing Python projects.
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
 
+### [config](../../../rjgtoys-config)
+
+A modular configuration data interface built with `pydantic`.
+
 ### [cli](../../../rjgtoys-cli)
 
 Command-line tool components built on top of the Python `argparse` library module.
