@@ -18,18 +18,32 @@ xc_
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
 
+cli_
+----
+
+Command-line tool components built on top of the Python argparse_ library module.
+
+yaml_
+-----
+
+A thin layer on top of ruamel.yaml_ that does YAML I/O with some tricks
+that I find useful.
+
 thing_
-~~~~~~
+------
 
 A kind of ``dict`` that behaves a bit like a JavaScript object, so ``x['a']`` and ``x.a`` are equivalent.
 
 .. _projects: /projects/projects/
 
+.. _yaml: /projects/yaml/
+
+.. _cli: /projects/cli/
+
 .. _xc: /projects/xc/
 
 .. _thing: /projects/thing/
 
+.. _argparse: https://docs.python.org/3/library/argparse.html
 
-
-
-
+.. _ruamel.yaml: https://pypi.org/project/ruamel.yaml/
