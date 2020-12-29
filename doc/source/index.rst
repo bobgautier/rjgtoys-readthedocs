@@ -43,6 +43,8 @@ A kind of ``dict`` that behaves a bit like a JavaScript object, so ``x['a']`` an
 
 .. _yaml: /projects/yaml/
 
+.. _config: /projects/config/
+
 .. _cli: /projects/cli/
 
 .. _xc: /projects/xc/
