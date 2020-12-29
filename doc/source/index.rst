@@ -11,7 +11,7 @@ Here is a list of what you'll find here:
 projects_
 ---------
 
-A thin layer on top of :mod:`setuptools` to simplify writing Python projects.
+A thin layer on top of `setuptools` to simplify writing Python projects.
 
 xc_
 ---
