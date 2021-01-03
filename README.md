@@ -11,6 +11,11 @@ Here is a list of what you'll find here:
 
 A thin layer on top of `setuptools` to simplify writing Python projects.
 
+
+### [tkthread](../../../rjgtoys-tkthread)
+
+Allows threads to interact with `tkinter` applications.
+
 ### [xc](../../../rjgtoys-xc)
 
 Structured exceptions for Python.  Easy to declare and to handle, and also good in Web APIs.
