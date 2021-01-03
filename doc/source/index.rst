@@ -16,7 +16,7 @@ A thin layer on top of `setuptools` to simplify writing Python projects.
 tkthread_
 ---------
 
-Allows threads to interact with `tkinter_` applications.
+Allows threads to interact with tkinter_ applications.
 
 xc_
 ---
