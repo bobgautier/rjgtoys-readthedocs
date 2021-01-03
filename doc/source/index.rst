@@ -13,6 +13,11 @@ projects_
 
 A thin layer on top of `setuptools` to simplify writing Python projects.
 
+tkthread_
+---------
+
+Allows threads to interact with `tkinter_` applications.
+
 xc_
 ---
 
@@ -41,6 +46,8 @@ A kind of ``dict`` that behaves a bit like a JavaScript object, so ``x['a']`` an
 
 .. _projects: /projects/projects/
 
+.. _tkthread: /projects/tkthread/
+
 .. _yaml: /projects/yaml/
 
 .. _config: /projects/config/
@@ -52,6 +59,8 @@ A kind of ``dict`` that behaves a bit like a JavaScript object, so ``x['a']`` an
 .. _thing: /projects/thing/
 
 .. _argparse: https://docs.python.org/3/library/argparse.html
+
+.. _tkinter: https://docs.python.org/3/library/tkinter.html
 
 .. _ruamel.yaml: https://pypi.org/project/ruamel.yaml/
 
